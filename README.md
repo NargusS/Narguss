@@ -1,11 +1,9 @@
-## 💫 About Me:
+## 💫 About Me
+<a href="https://www.linkedin.com/in/alexandre-chane-law/">
+  <img src="https://github.com/NargusS/Narguss/assets/28908164/e7f6f623-4015-44eb-8c25-beefcda79cf9" alt="CTO/Co-Founder Payconsent" width="541"/>
+</a>
 
-<h3 align="center">CTO / Co-Founder</h3>
-<p align="center">
-  <img src="https://app.payconsent.io/logo-payconsent.svg" alt="Payconsent"></img>
-</p>
-
-## 💻 Tech Stack:
+## 💻 Tech Stack
 <div align="center">
   <img src="https://github.com/NargusS/Narguss/assets/28908164/484fd0c7-596a-46f4-bb8d-082e62317c3f" alt="Typescript" width="150"/>
   <img src="https://github.com/NargusS/Narguss/assets/28908164/b30da666-cd65-4ffc-bade-16c5f4c645cc" alt="NestJS" width="150"/>
@@ -19,9 +17,13 @@
 </div>
 
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Narguss&theme=bear&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Narguss&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🌐 Socials:
-https://linkedin.com/in/https://www.linkedin.com/in/alexandre-chane-law/
+## 🌐 Socials
+<a href="https://www.linkedin.com/in/alexandre-chane-law/">
+  <img src="https://github.com/NargusS/Narguss/assets/28908164/8e5c70e1-2217-4c6b-9d15-1b43f76d0bd9" alt="LinkedIn" width="150"/>
+</a>
+
+
