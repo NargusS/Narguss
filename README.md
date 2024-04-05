@@ -1,6 +1,6 @@
-# Hi there 👋
+<h3>Hi there 👋</h3>
 
-## CTO / Co-founder Payconsent
+CTO / Co-founder Payconsent
 <!--
 **NargusS/Narguss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
