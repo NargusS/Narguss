@@ -32,8 +32,8 @@
 
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Narguss&theme=bear&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Narguss&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Narguss&theme=default&hide_border=false&include_all_commits=false&count_private=false&hide=issues,contribs)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Narguss&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Socials
 <a href="https://www.linkedin.com/in/alexandre-chane-law/">
