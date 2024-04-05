@@ -11,11 +11,11 @@
   <a href="https://nestjs.com/">
     <img src="https://github.com/NargusS/Narguss/assets/28908164/b30da666-cd65-4ffc-bade-16c5f4c645cc" alt="NestJS" width="150"/>
   </a>
-  <a href="">
-    <img src="https://nextjs.org/" alt="NextJS" width="150"/>
+  <a href="https://nextjs.org/">
+    <img src="https://github.com/NargusS/Narguss/assets/28908164/19f15711-e137-40f5-b2bc-288c597bd752" alt="NextJS" width="150"/>
   </a>
-  <a href="">
-    <img src="https://tailwindcss.com/" alt="TailwindCSS" width="150"/>
+  <a href="https://tailwindcss.com/">
+    <img src="https://github.com/NargusS/Narguss/assets/28908164/e8439eb0-2a57-46c5-bbc5-5e9891c0414d" alt="TailwindCSS" width="150"/>
   </a>
 </div>
 <div align="center">
