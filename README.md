@@ -25,7 +25,6 @@
   <a href="https://www.docker.com/">
     <img src="https://github.com/NargusS/Narguss/assets/28908164/64002445-73c0-4b31-bf5a-cb92c94ae251" alt="Docker" width="150"/>
   </a>
-  
   <a href="https://www.figma.com/">
     <img src="https://github.com/NargusS/Narguss/assets/28908164/f5267f1a-862e-4dc5-bdb6-f4f261dd80c7" alt="Figma" width="150"/> 
   </a>
